@@ -1,0 +1,18 @@
+Technologies Needed: HTML, Bootstrap, CSS, PHP.
+
+Steps for designing the website:
+*If the website contains confidential information then registration module is must required.
+*The website is designed in an interactive manner where an uneducated person can also understand the flow of events.
+1.Create a home page where a user can register him/her self in order to access the content available in the website.
+2.If the user is already registered they need to login to the website.
+3.After login, the user encountered a searchbar , so that a user can search for their needs and can able to save images and the text.
+4.Incase of any confidential information the user need to logout from the session after saving information inorder to prevent from unauthorized access.
+5.The data which is saved by the user will be stored in the database(for future access).
+6.The database is connected through PHP connection.
+
+*If the website contains informal content then, there is no need of registration module, user can easily track the website and then they can save images and text which are present in the website if they liked.
+
+                                                         (OR)
+*It can be done through frameworks(Ex:Django).
+*A framework is a set of components that help to develop websites quickly and easily.
+--There exist some pre-defined components in frameworks which reduces the work of creating registration form, login form etc.
